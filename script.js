@@ -15,7 +15,7 @@ const openCloseMenu = function () {
 
 const closeOpenMenu = function () {
   menuSize.classList.remove("color-menu-big");
-  console.log("mouse left area: closed menu")
+  console.log("closed menu")
 };
 
 const changeBackGroudColorRed = function () {
