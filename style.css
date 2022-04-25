@@ -1,0 +1,113 @@
+* {
+  margin: 0%;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.white-background {
+  background-color: white;
+}
+.red-background {
+  background-color: red;
+}
+.orange-background {
+  background-color: orange;
+}
+.purple-background {
+  background-color: purple;
+}
+.green-background {
+  background-color: green;
+}
+
+
+.red-text-background p{
+  color: black;
+  font-size: 16px;
+}
+.orange-text-background {
+  color: black;
+  font-size: 16px;
+}
+.purple-text-background {
+  color: black;
+  font-size: 16px;
+}
+.green-text-background {
+  color: black;
+  font-size: 16px;
+}
+
+
+.list-item {
+  cursor: pointer;
+}
+
+.btn-menu {
+  width: 75px;
+}
+
+.btn-menu li {
+  line-height: 10px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  border-radius: 7px;
+  background-color: black;
+}
+
+.color-menu {
+  font-size: 0px;
+
+  width: 0;
+  -webkit-transition: all 0.5s 0.3s ease;
+  transition: all 0.5s 0.3s ease;
+}
+
+.color-menu p {
+  padding-left: 10px;
+}
+
+.color-menu-big {
+  display: block;
+  color: black;
+  font-size: 16px;
+  width: 450px;
+  -webkit-transition: all 0.5s 0.3s ease;
+  transition: all 0.5s 0.3s ease;
+}
+
+.color-menu-big p {
+  padding-left: 10px;
+}
+
+.color-menu ul {
+  background-color: white;
+}
+
+.color-menu li {
+  margin-top: 2px;
+  margin-bottom: 2px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  line-height: 50px;
+}
+
+.color-menu .home {
+  background-color: lightgrey;
+}
+.color-menu .red {
+  background-color: red;
+}
+.color-menu .orange {
+  background-color: orange;
+}
+.color-menu .purple {
+  background-color: purple;
+}
+.color-menu .green {
+  background-color: green;
+}
